@@ -2,7 +2,6 @@ import numpy as np
 import pickle
 import streamlit as st
 import prediction
-from prediction import predict
 
 # loading the saved model
 
